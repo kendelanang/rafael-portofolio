@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/rafael-portofolio/static/css/main.b6c09d98.css",
+    "main.js": "/rafael-portofolio/static/js/main.51d78b11.js",
+    "static/media/me formal.jpg": "/rafael-portofolio/static/media/me formal.770716e679b78215aa92.jpg",
+    "static/media/me.png": "/rafael-portofolio/static/media/me.518aadcfa073917cd339.png",
+    "static/media/CV Rafael Alferdyas.pdf": "/rafael-portofolio/static/media/CV Rafael Alferdyas.7d765ac85cdbdbbcd0e8.pdf",
+    "static/media/background.jpg": "/rafael-portofolio/static/media/background.eac467af2c544f22b3c9.jpg",
+    "index.html": "/rafael-portofolio/index.html",
+    "main.b6c09d98.css.map": "/rafael-portofolio/static/css/main.b6c09d98.css.map",
+    "main.51d78b11.js.map": "/rafael-portofolio/static/js/main.51d78b11.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6c09d98.css",
+    "static/js/main.51d78b11.js"
+  ]
+}
