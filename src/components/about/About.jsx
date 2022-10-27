@@ -23,15 +23,14 @@ const About = () => {
 
             <article className='about__card'>
               <BiAward className='about__icon' />
-              <h5>Experience</h5>
-              <small>Fresh Graduate
-                Lulusan Terbaik
-              </small>
+              <h5>Status</h5>
+              <small>Fresh Graduate</small>
+              <small> (Lulusan Terbaik)</small>
             </article>
 
             <article className='about__card'>
               <FiUser className='about__icon' />
-              <h5>Clients</h5>
+              <h5>Experience</h5>
               <small>20+ Design, 2 Apps, 1 IOT</small>
             </article>
 
@@ -41,7 +40,9 @@ const About = () => {
               <small>20+ Completed</small>
             </article>
           </div>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet ex at placeat molestiae enim numquam facere laudantium, nesciunt facilis omnis eligendi, labore, odit tempora aut est. Laborum qui voluptates dolor.</p>
+          <p>Hello! I'm Rafael Alferdyas Putra Alfansyah also known as kendelanang on youtube platform. I'm a Front-End Developer based out of Nganjuk East Java. from content creator to lines a code on a web page, I love combining the worlds of logic and creative design to make eye-catching, accessible, and user-friendly websites or applications.</p>
+          <p></p>
+          <p>I'm excited to make the leap and continue refining my skills with the right company. Thank you!</p>
 
           <a href='#contact' className='btn btn-primary'>Let's Talk</a>
         </div>

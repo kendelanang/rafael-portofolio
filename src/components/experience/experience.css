@@ -2,6 +2,7 @@
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 2rem;
+    
 }
 
 .experience__container > div{
@@ -14,20 +15,42 @@
 
 .experience__container > div:hover{
     background: transparent;
-    border-color: var(--color-primary-variant);
+    border-color: var(--color-primary);
     cursor: default;
+    backdrop-filter: blur(2px);
 }
 
 .experience__container > div h3{
     text-align: center;
-    margin-bottom: 2rem;
+    margin-top: auto;
+    margin-bottom: 3rem;
     color: var(--color-primary);
 }
 
-.exeperience__content{
+.experience__content{
+    transition: var(--transition);
+    overflow: hidden;
     display: grid;
-    grid-template-columns: 1fr 1fr;
-    row-gap: 2rem;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    gap: 2rem;
+    width: auto;
+    align-items: center;
+}
+
+.experience__content > div{
+    text-align: center;
+    transition: var(--transition);
+    align-self: flex-end;
+}
+
+.experience__content > div:hover{
+    cursor: default;
+    color: var(--color-primary);
+}
+
+.experience__content > div p{
+    font-size: small;
+    margin-top: 1rem;
 }
 
 .experience__details{
