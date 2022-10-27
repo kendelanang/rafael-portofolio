@@ -1,17 +1,41 @@
 {
   "files": {
-    "main.css": "/rafael-portofolio/static/css/main.b6c09d98.css",
-    "main.js": "/rafael-portofolio/static/js/main.51d78b11.js",
+    "main.css": "/rafael-portofolio/static/css/main.ee9a1579.css",
+    "main.js": "/rafael-portofolio/static/js/main.631c480d.js",
     "static/media/me formal.jpg": "/rafael-portofolio/static/media/me formal.770716e679b78215aa92.jpg",
-    "static/media/me.png": "/rafael-portofolio/static/media/me.518aadcfa073917cd339.png",
+    "static/media/port4.jpg": "/rafael-portofolio/static/media/port4.a6ef7123ba3813d0c329.jpg",
+    "static/media/port1.jpg": "/rafael-portofolio/static/media/port1.df24305c94663760928f.jpg",
+    "static/media/port3.jpg": "/rafael-portofolio/static/media/port3.ea431b8f15233dc7301f.jpg",
+    "static/media/me.png": "/rafael-portofolio/static/media/me.f2bee284bc0ffe8d27fb.png",
+    "static/media/kolase4.jpg": "/rafael-portofolio/static/media/kolase4.57dee11e7add40a0eacc.jpg",
+    "static/media/kolase3.jpg": "/rafael-portofolio/static/media/kolase3.c406795379f915de3a89.jpg",
+    "static/media/kolase1.jpg": "/rafael-portofolio/static/media/kolase1.47b8439e81d24c5290c3.jpg",
+    "static/media/kolase2.jpg": "/rafael-portofolio/static/media/kolase2.ffd82b37d416b8634367.jpg",
+    "static/media/port2.jpg": "/rafael-portofolio/static/media/port2.21ba5611c2d50c6c7d3f.jpg",
     "static/media/CV Rafael Alferdyas.pdf": "/rafael-portofolio/static/media/CV Rafael Alferdyas.7d765ac85cdbdbbcd0e8.pdf",
+    "static/media/flutter.png": "/rafael-portofolio/static/media/flutter.ca94ec2db8f81a675d8b.png",
     "static/media/background.jpg": "/rafael-portofolio/static/media/background.eac467af2c544f22b3c9.jpg",
+    "static/media/github.png": "/rafael-portofolio/static/media/github.65a029dd14ae5c405656.png",
+    "static/media/python.svg": "/rafael-portofolio/static/media/python.7926a98a9b8b68d050c635050bacf4fc.svg",
+    "static/media/ibispaint.svg": "/rafael-portofolio/static/media/ibispaint.5b3b682a4334064d5a8b0dffd85ce206.svg",
+    "static/media/android.svg": "/rafael-portofolio/static/media/android.9a432b8385d6f8b36cabe6ad0984308e.svg",
+    "static/media/ps.svg": "/rafael-portofolio/static/media/ps.21b3c1e00213c9613773022511f98503.svg",
+    "static/media/capcut.svg": "/rafael-portofolio/static/media/capcut.c7a3d6385fa6537cd2ccb8e8b4db62aa.svg",
+    "static/media/ae.svg": "/rafael-portofolio/static/media/ae.24de22641b65e50453ee9a3f2efa9ac4.svg",
+    "static/media/arduino.svg": "/rafael-portofolio/static/media/arduino.924d5fde92a9a04ccf620a7143f57d63.svg",
+    "static/media/pp.svg": "/rafael-portofolio/static/media/pp.efd2d57231c1b7abb7b80e46bab5e64f.svg",
+    "static/media/tailwind.svg": "/rafael-portofolio/static/media/tailwind.fa33f4e8e025e5e800a2b8938c449152.svg",
+    "static/media/javascript.svg": "/rafael-portofolio/static/media/javascript.acc4642f682cd93a4c20a8a02c0cfa21.svg",
+    "static/media/css.svg": "/rafael-portofolio/static/media/css.6ec1697a406483c72ccf775894d16777.svg",
+    "static/media/html5.svg": "/rafael-portofolio/static/media/html5.5804150e47fbeb132a5d2688f08ce4c8.svg",
+    "static/media/firebase.svg": "/rafael-portofolio/static/media/firebase.82a35fc0b90d124a8e7333989f767fd3.svg",
     "index.html": "/rafael-portofolio/index.html",
-    "main.b6c09d98.css.map": "/rafael-portofolio/static/css/main.b6c09d98.css.map",
-    "main.51d78b11.js.map": "/rafael-portofolio/static/js/main.51d78b11.js.map"
+    "static/media/react.svg": "/rafael-portofolio/static/media/react.928f956d9c8ebcffb98a8e917154a81a.svg",
+    "main.ee9a1579.css.map": "/rafael-portofolio/static/css/main.ee9a1579.css.map",
+    "main.631c480d.js.map": "/rafael-portofolio/static/js/main.631c480d.js.map"
   },
   "entrypoints": [
-    "static/css/main.b6c09d98.css",
-    "static/js/main.51d78b11.js"
+    "static/css/main.ee9a1579.css",
+    "static/js/main.631c480d.js"
   ]
 }
