@@ -24,8 +24,8 @@ const Portofolio = () => {
           </div>
           <h3>Portofolio Website</h3>
           <div className='portofolio__item-cta'>
-            <a href='github.com' className='btn'>Github</a>
-            <a href='youtube.com' className='btn btn-primary' target='_blank'>Demo</a>
+            <a href='https://github.com/kendelanang/rafael-portofolio' className='btn'>Github</a>
+            <a href='https://kendelanang.github.io/rafael-portofolio/' className='btn btn-primary' target='_blank'>Demo</a>
           </div>
         </article>
 
@@ -37,7 +37,7 @@ const Portofolio = () => {
           </div>
           <h3>KNDLIX - Streaming Movies Website</h3>
           <div className='portofolio__item-cta'>
-            <a href='github.com' className='btn'>Github</a>
+            <a href='https://github.com/kendelanang/kndlix' className='btn'>Github</a>
             <a href='youtube.com' className='btn btn-primary' target='_blank'>Demo</a>
           </div>
         </article>
@@ -49,8 +49,8 @@ const Portofolio = () => {
           </div>
           <h3>Face Mask Detection Apps</h3>
           <div className='portofolio__item-cta'>
-            <a href='github.com' className='btn'>Github</a>
-            <a href='youtube.com' className='btn btn-primary' target='_blank'>Demo</a>
+            <a href='https://github.com/kendelanang/TA-FaceMaskRecognition' className='btn'>Github</a>
+            <a href='https://www.youtube.com/watch?v=b6ReGjarmAo' className='btn btn-primary' target='_blank'>Demo</a>
           </div>
         </article>
         <article className='portofolio__item'>
@@ -60,8 +60,8 @@ const Portofolio = () => {
           </div>
           <h3>Aquaponics Apps</h3>
           <div className='portofolio__item-cta'>
-            <a href='github.com' className='btn'>Github</a>
-            <a href='youtube.com' className='btn btn-primary' target='_blank'>Demo</a>
+            <a href='https://github.com/kendelanang/aquaponic_app' className='btn'>Github</a>
+            <a href='https://www.youtube.com/c/Kendelanang/' className='btn btn-primary' target='_blank'>Demo</a>
           </div>
         </article>
       </div>
