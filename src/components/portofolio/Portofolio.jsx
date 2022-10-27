@@ -1,63 +1,69 @@
 import React from 'react'
 import './portofolio.css'
 import IMG1 from '../../assets/port1.jpg'
-import IMG2 from '../../assets/port2.jpg'
-import IMG3 from '../../assets/port3.jpg'
-import IMG4 from '../../assets/port4.jpg'
-import IMG5 from '../../assets/port5.jpg'
-import IMG6 from '../../assets/port6.jpg'
-import IMG7 from '../../assets/port7.jpg'
-import IMG8 from '../../assets/port8.jpg'
-import IMG9 from '../../assets/port9.jpg'
-import IMG10 from '../../assets/port10.jpg'
-
-const data = [
-  {
-    id: 1,
-    image: IMG1,
-    title: 'Face Mask Detection',
-    github: 'https://github.com',
-    demo: 'https://github.com'
-  },
-  {
-    id: 2,
-    image: IMG1,
-    title: 'Face Mask Detection',
-    github: 'https://github.com',
-    demo: 'https://github.com'
-  },
-  {
-    id: 3,
-    image: IMG1,
-    title: 'Face Mask Detection',
-    github: 'https://github.com',
-    demo: 'https://github.com'
-  }
-]
+import port1 from '../../assets/portfrontend/port1.jpg'
+import port2 from '../../assets/portfrontend/port2.jpg'
+import port3 from '../../assets/portfrontend/port3.jpg'
+import port4 from '../../assets/portfrontend/port4.jpg'
+import reactlogo from '../../assets/react.svg'
+import flutterlogo from '../../assets/flutter.png'
+import tailwindlogo from '../../assets/tailwind.svg'
+import firebase from '../../assets/firebase.svg'
 
 const Portofolio = () => {
   return (
     <section id='portofolio'>
       <h5>My recent work</h5>
-      <h2>Portofolio</h2>
+      <h2>Portofolio Front-End</h2>
 
       <div className="container portofolio__container">
-        {
-          data.map(({ id, image, title, github, demo }) => {
-            return (
-              <article key={id} className='portofolio__item'>
-                <div className='portofolio__item-image'>
-                  <img src={image} alt={title} />
-                </div>
-                <h3>{title}</h3>
-                <div className='portofolio__item-cta'>
-                  <a href={github} className='btn'>Github</a>
-                  <a href={demo} className='btn btn-primary' target='_blank'>Live demo</a>
-                </div>
-              </article>
-            )
-          })
-        }
+        <article className='portofolio__item'>
+          <img className="logo-1" src={reactlogo}></img>
+          <div className='portofolio__item-image'>
+            <img src={port4} alt='' />
+          </div>
+          <h3>Portofolio Website</h3>
+          <div className='portofolio__item-cta'>
+            <a href='github.com' className='btn'>Github</a>
+            <a href='youtube.com' className='btn btn-primary' target='_blank'>Demo</a>
+          </div>
+        </article>
+
+        <article className='portofolio__item'>
+          <img className="logo-1" src={reactlogo}></img>
+          <img className="logo-2" src={tailwindlogo}></img>
+          <div className='portofolio__item-image'>
+            <img src={port1} alt='' />
+          </div>
+          <h3>KNDLIX - Streaming Movies Website</h3>
+          <div className='portofolio__item-cta'>
+            <a href='github.com' className='btn'>Github</a>
+            <a href='youtube.com' className='btn btn-primary' target='_blank'>Demo</a>
+          </div>
+        </article>
+        <article className='portofolio__item'>
+          <img className="logo-1" src={flutterlogo}></img>
+          <img className="logo-2" src={firebase}></img>
+          <div className='portofolio__item-image'>
+            <img src={port2} alt='' />
+          </div>
+          <h3>Face Mask Detection Apps</h3>
+          <div className='portofolio__item-cta'>
+            <a href='github.com' className='btn'>Github</a>
+            <a href='youtube.com' className='btn btn-primary' target='_blank'>Demo</a>
+          </div>
+        </article>
+        <article className='portofolio__item'>
+          <img className="logo-1" src={flutterlogo}></img>
+          <div className='portofolio__item-image'>
+            <img src={port3} alt='' />
+          </div>
+          <h3>Aquaponics Apps</h3>
+          <div className='portofolio__item-cta'>
+            <a href='github.com' className='btn'>Github</a>
+            <a href='youtube.com' className='btn btn-primary' target='_blank'>Demo</a>
+          </div>
+        </article>
       </div>
     </section>
   )

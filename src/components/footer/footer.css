@@ -1,13 +1,14 @@
 footer{
-    background: var(--color-light);
+    background: linear-gradient(transparent,var(--color-primary));
     padding: 3rem 0;
     text-align: center;
     font-size: 0.9rem;
     margin-top: 7rem;
 }
 
-.footer a{
-    color: var(--color-bg);
+
+.permalinks a, li, ul{
+    color: var(--color-white);
 }
 
 .footer__logo{
@@ -15,6 +16,7 @@ footer{
     font-weight: 500;
     margin-bottom: 2rem;
     display: inline-block;
+    color: var(--color-white);
 }
 
 .permalinks{
@@ -49,7 +51,7 @@ footer{
 
 .footer__copyright{
     margin-bottom: 4rem;
-    color: var(--color-bg);
+    color: var(--color-white);
 }
 
 /* ================= Media Queries (Small Devices) ===================== */
