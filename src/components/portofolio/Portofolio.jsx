@@ -38,7 +38,7 @@ const Portofolio = () => {
           <h3>KNDLIX - Streaming Movies Website</h3>
           <div className='portofolio__item-cta'>
             <a href='https://github.com/kendelanang/kndlix' className='btn'>Github</a>
-            <a href='youtube.com' className='btn btn-primary' target='_blank'>Demo</a>
+            <a href='https://youtu.be/kUHrgUlAIOg' className='btn btn-primary' target='_blank'>Demo</a>
           </div>
         </article>
         <article className='portofolio__item'>

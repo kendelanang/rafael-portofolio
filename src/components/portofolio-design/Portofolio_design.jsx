@@ -26,7 +26,7 @@ const Portofolio_design = () => {
                     </div>
                     <h3>Lomba Desain</h3>
                     <div className='portofolio__item-cta'>
-                        <a href='youtube.com' className='btn btn-primary' target='_blank'>Preview</a>
+                        <a href={kolase3}  className='btn btn-primary' target='_blank'>Preview</a>
                     </div>
                 </article>
 
@@ -37,7 +37,7 @@ const Portofolio_design = () => {
                     </div>
                     <h3>Art Commission</h3>
                     <div className='portofolio__item-cta'>
-                        <a href='youtube.com' className='btn btn-primary' target='_blank'>Preview</a>
+                        <a href={kolase1} className='btn btn-primary' target='_blank'>Preview</a>
                     </div>
                 </article>
                 <article className='portofolio__item'>
@@ -47,7 +47,7 @@ const Portofolio_design = () => {
                     </div>
                     <h3>Social Media Purpose</h3>
                     <div className='portofolio__item-cta'>
-                        <a href='youtube.com' className='btn btn-primary' target='_blank'>Preview</a>
+                        <a href={kolase2}  className='btn btn-primary' target='_blank'>Preview</a>
                     </div>
                 </article>
                 <article className='portofolio__item'>
@@ -58,7 +58,7 @@ const Portofolio_design = () => {
                     </div>
                     <h3>Youtube</h3>
                     <div className='portofolio__item-cta'>
-                        <a href='youtube.com' className='btn btn-primary' target='_blank'>Preview</a>
+                        <a href={kolase4}  className='btn btn-primary' target='_blank'>Preview</a>
                     </div>
                 </article>
             </div>
