@@ -40,7 +40,7 @@ const Contact = () => {
             <BsInstagram className='contact__option-icon' />
             <h4>Instagram</h4>
             <h5>kendelanang</h5>
-            <a href='mailto:rafaelalferdyas@gmail.com'>Send a message</a>
+            <a href='https://www.instagram.com/kendelanang/'>Send a message</a>
           </article>
         </div>
 
